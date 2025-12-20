@@ -49,7 +49,7 @@ Proyecto Final/
 - Josué J. Senarega Claro C311
 
 
-**Universidad:** Universidad de La Habana 
+**Universidad:** Universidad de La Habana   
 **FACULTAD:** Matcom  
 **Asignatura:** Estadística  
 
