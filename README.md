@@ -4,7 +4,7 @@ Proyecto Final - Curso de Estadística 2025-2026
 
 ## 📋 Descripción
 
-Análisis estadístico completo de 20 años de partidos de la Premier League Inglesa (2000-2022), aplicando técnicas de estadística descriptiva, inferencial y machine learning para responder preguntas clave sobre el comportamiento y resultados en el fútbol profesional.
+Análisis estadístico completo de 18 temporadas de la Premier League Inglesa (2000-2018), aplicando técnicas de estadística descriptiva, inferencial y machine learning para responder preguntas clave sobre el comportamiento y resultados en el fútbol profesional.
 
 ## 🎯 Preguntas de Investigación
 
@@ -19,7 +19,7 @@ Análisis estadístico completo de 20 años de partidos de la Premier League Ing
 - **Fuente:** Kaggle - [English Premier League Dataset](https://www.kaggle.com/datasets/saife245/english-premier-league)
 - **Registros:** 6,840 partidos
 - **Variables:** 40 características (goles, puntos, rachas, estadísticas del equipo)
-- **Período:** 2000-2022
+- **Período:** 2000-2018 (18 temporadas)
 
 ## 🛠️ Tecnologías
 
