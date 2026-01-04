@@ -35,10 +35,8 @@ Análisis estadístico completo de 18 temporadas de la Premier League Inglesa (2
 ```
 Proyecto Final/
 │
-├── data/                   # Datasets (no incluidos en el repo)
-├── notebooks/              # Jupyter notebooks del análisis
-├── src/                    # Scripts de Python
-├── docs/                   # Presentación y documentación
+├── data/                   # Dataset de la Premier League
+├── notebooks/              # Jupyter notebook con análisis completo
 ├── .gitignore
 └── README.md
 ```
